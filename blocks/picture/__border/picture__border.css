@@ -1,0 +1,6 @@
+.picture__border{
+    border: 2px solid #000000;
+    margin: 0px 40px 0px 44px;
+    transform: rotate(90deg);
+    box-sizing: border-box;
+}

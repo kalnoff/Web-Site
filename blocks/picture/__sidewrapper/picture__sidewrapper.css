@@ -1,0 +1,9 @@
+.picture__sidewrapper{
+    transform: rotate(-90deg);
+    max-width: 338px;
+    position: relative;
+    top: 38%;
+    right: 8%;
+    box-sizing: border-box;
+    display: flex;
+}

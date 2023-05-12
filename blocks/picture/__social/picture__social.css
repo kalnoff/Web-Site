@@ -1,0 +1,9 @@
+.picture__social{
+    display: flex;
+    transform: rotate(90deg);
+    margin: 0  15px 0 0 ;
+}
+
+picture__social:nth-last-child(3){
+    margin: 0;
+}
