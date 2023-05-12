@@ -1,0 +1,7 @@
+.picture{
+    background-image: url('../../../images/content/Background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    aspect-ratio: 2.2;
+    position: relative;
+}
