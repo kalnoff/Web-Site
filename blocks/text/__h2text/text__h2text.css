@@ -1,0 +1,13 @@
+.text__h2text{
+    font-size: 36px;
+    line-height: 60px;
+}
+
+.text__h2text::after{
+    content: "";
+    display: block;
+    max-width: 60px;
+    box-sizing: border-box;
+    border: 3px solid #FFA501;
+    margin: 0 0 24px 0;
+}

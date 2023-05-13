@@ -1,0 +1,8 @@
+.line__horiz{
+    border: 1px solid #000000;
+    transform: rotate(180deg);
+    position: relative;
+    top: 50%;
+    right: 59px;
+    width: 57px;
+}
